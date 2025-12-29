@@ -15,7 +15,3 @@ I enjoy learning new technologies and building practical projects to improve my 
 - Improve my coding skills  
 - Build real-world projects  
 - Grow as a software developer  
-
-📫 **Connect with me:**  
-- GitHub: [Your GitHub Profile Link]  
-- LinkedIn: [Your LinkedIn Profile Link]
